@@ -1,2 +1,2 @@
 # Profile-database-and-login
-This is form validation, database CRUD steps, and session php practice.
+Form validation, database C.R.U.D. steps, and session php practice.
